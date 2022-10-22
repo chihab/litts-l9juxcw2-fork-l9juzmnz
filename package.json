@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/chihab.litts-l9juxcw2-fork-l9juzmnz",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve cDrgxjM7QwHjPFF8JC6d --open"
+  },
+  "dependencies": {}
+}
